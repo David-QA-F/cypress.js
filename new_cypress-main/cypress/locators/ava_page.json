@@ -1,0 +1,14 @@
+{
+  "v1": ":nth-child(1) > .shop__button",
+  "v2": ":nth-child(2) > .shop__button",
+  "v3": ":nth-child(3) > .shop__button",
+  "v4": ":nth-child(4) > .shop__button",
+  "v5": ":nth-child(5) > .shop__button",
+  "v6": ":nth-child(6) > .shop__button",
+  "v7": ":nth-child(7) > .shop__button",
+  "v8": ":nth-child(8) > .shop__button",
+  "v9": ":nth-child(9) > .shop__button",
+  "v10": ":nth-child(10) > .shop__button",
+  "v11": ":nth-child(11) > .shop__button",
+  "v12": ":nth-child(12) > .shop__button"
+}
